@@ -1,7 +1,10 @@
 .titulu{
     color: rgb(0, 0, 0);
-    background-color: rgb(97, 212, 69);
+    background-color: rgb(245, 245, 245);
 }
  body{
-    background-color: rgba(151, 240, 203, 0.747);
+    background-color: rgba(241, 241, 241, 0.747);
+ }
+ .ocreu{
+    width: 1000px;
  }

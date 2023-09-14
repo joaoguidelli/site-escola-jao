@@ -5,3 +5,38 @@ body{
 .foto-banofe{
     width: 1000px;
 }
+.text1{
+    background-color: black;
+    color: darkorange;
+}
+.text2{
+    background-color: darkorange;
+    color: black;
+}
+.text3{
+    background-color: darkorange;
+    color: black;
+}
+.text4{
+    background-color: darkorange;
+    color: black;
+}
+.nome{
+    width: 100px;
+}
+.email{
+    width: 100px;
+}
+.contato{
+    width: 100px;
+}
+.endereço{
+    width: 100px;
+}
+.subs{
+    width: 100px;
+}
+.TEXT5{
+background-color: darkorange;
+color: black;
+}

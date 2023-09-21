@@ -1,6 +1,8 @@
-
-body{
-    width: 1500px;
+.cabecalho{
+    text-align: justify;
+}
+.tabela1{
+    width: 2000px;
 }
 .foto-banofe{
     width: 1000px;
@@ -8,6 +10,7 @@ body{
 .text1{
     background-color: black;
     color: darkorange;
+    text-align: center;
 }
 .text2{
     background-color: darkorange;
@@ -36,7 +39,7 @@ body{
 .subs{
     width: 100px;
 }
-.TEXT5{
+.text5{
 background-color: darkorange;
 color: black;
 }
